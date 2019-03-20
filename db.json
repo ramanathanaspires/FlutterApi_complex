@@ -1,0 +1,26 @@
+{
+  "success": {
+    "total": 1
+  },
+  "contents": {
+    "jokes": [
+      {
+        "category": "jod",
+        "title": "Joke of the day ",
+        "description": "Joke of the day ",
+        "background": "",
+        "date": "2019-03-20",
+        "joke": {
+          "title": "Why did the teacher have to were sunglasses in school?",
+          "length": "103",
+          "clean": "1",
+          "racial": "0",
+          "date": "2019-03-20",
+          "id": "4njJPrYt_G1ItM9MzifP3geF",
+          "text": "Q. Why did the teacher have to were sunglasses in school?\r\n A. Because the students were so bright.\r\n\r\n"
+        }
+      }
+    ],
+    "copyright": "2019-20 https://jokes.one"
+  }
+}
